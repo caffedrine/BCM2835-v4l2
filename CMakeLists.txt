@@ -3,6 +3,8 @@ project(BCM2835_v4l2)
 
 set(CMAKE_CXX_STANDARD 11)
 
+include_directories(include/)
+
 set(SOURCE_FILES
         bcm2835-camera.c
         bcm2835-camera.h

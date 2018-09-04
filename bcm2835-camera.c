@@ -22,7 +22,7 @@
 #include "bcm2835-camera.h"
 
 #define BM2835_MMAL_VERSION "1.3.3.7"
-#define BM2835_MMAL_MODULE_NAME "bcm2835-v4l2-m"
+#define BM2835_MMAL_MODULE_NAME "bcm2835-v4l2-modified"
 #define MIN_WIDTH 32
 #define MIN_HEIGHT 32
 #define MIN_BUFFER_SIZE (80 * 1024)
